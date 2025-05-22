@@ -20,7 +20,7 @@ A Python tool to visualize the folder structure of any project directory with a 
 ```bash
 # Clone the repository
 git clone https://github.com/crazilazi/Folder.Visualizer.git
-cd project-structure-visualizer
+cd Folder.Visualizer
 
 # Or download directly
 wget https://raw.githubusercontent.com/crazilazi/project-structure-visualizer/main/Folder.Visualizer.py
